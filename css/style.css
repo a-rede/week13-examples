@@ -2,7 +2,7 @@ body {
     background-color: tan;
 }
 
-.whiteBg {
+.whiteBG {
     background-color: #FFFFFF;
 }
 
@@ -35,5 +35,9 @@ body {
     .studentList {
         display: flex;
         justify-content: space-around;
+    }
+
+    ul {
+        padding: 0;
     }
 }
