@@ -2,6 +2,10 @@ body {
     background-color: tan;
 }
 
+.whiteBg {
+    background-color: #FFFFFF;
+}
+
 .inputForms {
     padding-top: 5%;
     text-align: center;
